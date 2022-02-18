@@ -1,2 +1,2 @@
 # automatic-questions-tagging-system
-This repository is created for final group project on Natural Language Processing course.
+This is a natural language processing project that can predict the most relevant tag of specific question on Stack Overflow. The overall workflow including importing and merging the datasets that have been taken from Kaggle, then followed by some cleaning like punctuation and stopwords removal, lemmatization, then did TF-IDF vectorization, then followed by splitting the dataset into train and test sets and then did modelling with K-Nearest Neighbors algorithms.
